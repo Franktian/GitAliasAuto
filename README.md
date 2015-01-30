@@ -14,4 +14,4 @@ Type in ./alias.sh, if you see a permission denied error, type in `chmod 777 ali
 You should see the configured commands listed on your terminal.
 
 ## Reference
-(Aliases | Git How To)[http://githowto.com/aliases]
+[Aliases | Git How To](http://githowto.com/aliases)
